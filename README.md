@@ -1,2 +1,2 @@
 # Keyboard-Tester
-## For checking if all the keys on you pc are woking
+## For checking if all the keys on your pc are woking
